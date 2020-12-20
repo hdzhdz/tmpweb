@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/tmpweb/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/tmpweb/static/js/main.18a981d4.chunk.js",
-    "main.js.map": "/tmpweb/static/js/main.18a981d4.chunk.js.map",
-    "runtime-main.js": "/tmpweb/static/js/runtime-main.9455dd62.js",
-    "runtime-main.js.map": "/tmpweb/static/js/runtime-main.9455dd62.js.map",
-    "static/js/2.d9361fa1.chunk.js": "/tmpweb/static/js/2.d9361fa1.chunk.js",
-    "static/js/2.d9361fa1.chunk.js.map": "/tmpweb/static/js/2.d9361fa1.chunk.js.map",
-    "static/js/3.8ca54252.chunk.js": "/tmpweb/static/js/3.8ca54252.chunk.js",
-    "static/js/3.8ca54252.chunk.js.map": "/tmpweb/static/js/3.8ca54252.chunk.js.map",
+    "main.css": "/tmpweb/static/css/main.ab2501cf.chunk.css",
+    "main.js": "/tmpweb/static/js/main.d3bd58c1.chunk.js",
+    "main.js.map": "/tmpweb/static/js/main.d3bd58c1.chunk.js.map",
+    "runtime-main.js": "/tmpweb/static/js/runtime-main.d1d0cb6e.js",
+    "runtime-main.js.map": "/tmpweb/static/js/runtime-main.d1d0cb6e.js.map",
+    "static/css/2.9522b9fe.chunk.css": "/tmpweb/static/css/2.9522b9fe.chunk.css",
+    "static/js/2.edb5f950.chunk.js": "/tmpweb/static/js/2.edb5f950.chunk.js",
+    "static/js/2.edb5f950.chunk.js.map": "/tmpweb/static/js/2.edb5f950.chunk.js.map",
     "index.html": "/tmpweb/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/tmpweb/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.d9361fa1.chunk.js.LICENSE.txt": "/tmpweb/static/js/2.d9361fa1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tmpweb/static/media/logo.6ce24c58.svg"
+    "precache-manifest.e41bb0fb8e12fd84c6b51c4775b62ea4.js": "/tmpweb/precache-manifest.e41bb0fb8e12fd84c6b51c4775b62ea4.js",
+    "service-worker.js": "/tmpweb/service-worker.js",
+    "static/css/2.9522b9fe.chunk.css.map": "/tmpweb/static/css/2.9522b9fe.chunk.css.map",
+    "static/css/main.ab2501cf.chunk.css.map": "/tmpweb/static/css/main.ab2501cf.chunk.css.map",
+    "static/js/2.edb5f950.chunk.js.LICENSE.txt": "/tmpweb/static/js/2.edb5f950.chunk.js.LICENSE.txt",
+    "static/media/video-1.mp4": "/tmpweb/static/media/video-1.27a47438.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.9455dd62.js",
-    "static/js/2.d9361fa1.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.18a981d4.chunk.js"
+    "static/js/runtime-main.d1d0cb6e.js",
+    "static/css/2.9522b9fe.chunk.css",
+    "static/js/2.edb5f950.chunk.js",
+    "static/css/main.ab2501cf.chunk.css",
+    "static/js/main.d3bd58c1.chunk.js"
   ]
 }
